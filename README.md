@@ -1,6 +1,8 @@
 # Sequential-Social-Dilemma
 
-This repo is an open-source implementation of DeepMind's Sequential Social Dilemma (SSD) multi-agent game-theoretic environments [[1]](https://arxiv.org/abs/1702.03037). SSDs can be thought of as analogous to spatially and temporally extended Prisoner's Dilemma-like games. The reward structure poses a dilemma because individual short-term optimal strategies lead to poor long-term outcomes for the group.
+This repository is an open-source implementation of DeepMind's Sequential Social Dilemma (SSD) multi-agent game-theoretic environments [[1]](https://arxiv.org/abs/1702.03037). SSDs can be thought of as analogous to spatially and temporally extended Prisoner's Dilemma-like games. The reward structure poses a dilemma because individual short-term optimal strategies lead to poor long-term outcomes for the group.
+
+This implementation seeks to extend the social dilemma scenario to incorporate new dynamics aimed at making the strategic scenario more realistic and to implement mechanisms to incentivise the emergence of cooperative behaviour in agents.
 
 The implemented environments are structured to be compatible with OpenAIs gym environments
 
