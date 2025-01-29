@@ -9,3 +9,8 @@ The implemented environments are structured to be compatible with OpenAIs gym en
 # Relevant papers 
 
 1. Leibo, J. Z., Zambaldi, V., Lanctot, M., Marecki, J., & Graepel, T. (2017). [Multi-agent reinforcement learning in sequential social dilemmas](https://arxiv.org/abs/1702.03037). In Proceedings of the 16th Conference on Autonomous Agents and MultiAgent Systems (pp. 464-473).
+
+
+# Contributors
+
+The base code for the PyColab environment was taken from [tiagoCuervo](https://github.com/tiagoCuervo/CommonsGame).
