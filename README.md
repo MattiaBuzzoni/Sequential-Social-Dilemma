@@ -13,4 +13,4 @@ The implemented environments are structured to be compatible with OpenAIs gym en
 
 # Contributors
 
-The base code for the PyColab environment was taken from [tiagoCuervo](https://github.com/tiagoCuervo/CommonsGame).
+This project is based on the PyColab environment, with the base code for the environment architecture originally developed by [tiagoCuervo](https://github.com/tiagoCuervo/CommonsGame), which has provided a solid foundation for this work. Any modifications or extensions beyond the original code are on my own.
