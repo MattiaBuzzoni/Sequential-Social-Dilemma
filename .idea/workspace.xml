@@ -4,26 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73c15693-590c-45c8-a0b3-a70afaff0f29" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithm/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/agent.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/prioritized_experience_replay.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/sum_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/uniform_experience_replay.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/default_args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/social_dilemma/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/social_dilemma/envs/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/social_dilemma/envs/env.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/social_dilemma/maps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/social_dilemma/objects.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/social_dilemma/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
+    <list default="true" id="73c15693-590c-45c8-a0b3-a70afaff0f29" name="Changes" comment="First commit for the sequential social dilemma environment developed for my master degree thesis">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -270,9 +252,22 @@
       <option name="presentableId" value="Default" />
       <updated>1719863083554</updated>
     </task>
+    <task id="LOCAL-00001" summary="First commit for the sequential social dilemma environment developed for my master degree thesis">
+      <option name="closed" value="true" />
+      <created>1738157591333</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738157591333</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit for the sequential social dilemma environment developed for my master degree thesis" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit for the sequential social dilemma environment developed for my master degree thesis" />
   </component>
 </project>
