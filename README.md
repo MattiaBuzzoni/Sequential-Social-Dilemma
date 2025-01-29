@@ -4,6 +4,10 @@ This repo is an open-source implementation of DeepMind's Sequential Social Dilem
 
 The implemented environments are structured to be compatible with OpenAIs gym environments
 
+# Usage 
+
+The file example.py contains a simple usage example where you can modify the number of agents and the size of its field of vision. To run the example 'cd' to the directory of the repository and run 'python example.py'. You should see something like this:
+
 ![3_1-ezgif com-crop](https://github.com/user-attachments/assets/7fc1341c-b7d0-498c-b1c1-a0c393f794c3)
 
 # Relevant papers 
