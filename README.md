@@ -6,6 +6,10 @@ This implementation seeks to extend the social dilemma scenario to incorporate n
 
 The implemented environments are structured to be compatible with [OpenAIs gym environments](https://github.com/openai/gym).
 
+# Installation 
+
+To install `cd` to the directory of the repository and run `pip install -e`.
+
 # Usage 
 
 The file `example.py` contains a simple usage example where you can modify the number of agents and the size of its field of vision. To run the example `cd` to the directory of the repository and run `python example.py`. You should see something like this:
