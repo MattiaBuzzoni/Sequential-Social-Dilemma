@@ -1,4 +1,3 @@
 # Sequential-Social-Dilemma
 
-
-![gif_env](https://github.com/user-attachments/assets/f00541d6-55f4-4441-a55c-190b440097fa)
+![3_1-ezgif com-crop](https://github.com/user-attachments/assets/7fc1341c-b7d0-498c-b1c1-a0c393f794c3)
