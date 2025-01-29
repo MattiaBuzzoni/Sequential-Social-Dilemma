@@ -4,7 +4,7 @@ This repository is an open-source implementation of DeepMind's Sequential Social
 
 This implementation seeks to extend the social dilemma scenario to incorporate new dynamics aimed at making the strategic scenario more realistic and to implement mechanisms to incentivise the emergence of cooperative behaviour in agents.
 
-The implemented environments are structured to be compatible with OpenAIs gym environments
+The implemented environments are structured to be compatible with [OpenAIs gym environments](https://github.com/openai/gym).
 
 # Usage 
 
@@ -15,6 +15,8 @@ The file `example.py` contains a simple usage example where you can modify the n
 # Relevant papers 
 
 1. Leibo, J. Z., Zambaldi, V., Lanctot, M., Marecki, J., & Graepel, T. (2017). [Multi-agent reinforcement learning in sequential social dilemmas](https://arxiv.org/abs/1702.03037). In Proceedings of the 16th Conference on Autonomous Agents and MultiAgent Systems (pp. 464-473).
+2. Perolat, J., Leibo, J. Z., Zambaldi, V., Beattie, C., Tuyls, K., & Graepel, T. (2017). [A multi-agent reinforcement learning model of common-pool resource appropriation](https://proceedings.neurips.cc/paper_files/paper/2017/hash/2b0f658cbffd284984fb11d90254081f-Abstract.html). Advances in neural information processing systems, 30.
+3. Macy, M. W., & Flache, A. (2002). [Learning dynamics in social dilemmas](https://www.pnas.org/doi/abs/10.1073/pnas.092080099). Proceedings of the National Academy of Sciences, 99(suppl_3), 7229-7236.
 
 
 # Contributors
